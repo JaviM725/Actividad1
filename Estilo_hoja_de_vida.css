@@ -1,0 +1,86 @@
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    position:absolute;
+    left: 760px;
+}
+.nombre{
+    /*height: 200px;*/
+    /*width: 445px;*/
+    position: absolute;
+    left: 300px;
+    padding-top: 85px;
+    padding-bottom: 85px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background-color: #808080;
+    border-radius: 2%;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.contacto{
+    position: absolute;
+    left: 300px;
+    top: 213px;
+    background-color: #999999;
+    width: 295px;
+    height: 600px;
+    border-radius: 2%;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.contacto .telefono{
+    position: absolute;
+    top: 160px;
+    background-color: #999999;
+    width: 295px;
+}
+.contacto .Correo{
+    position: absolute;
+    top: 320px;
+    background-color: #999999;
+    width: 295px;
+}
+.contacto .hubicacion{
+    position: absolute;
+    top: 500;
+    background-color: #999999;
+    width: 295px;
+}
+.Experiencia{
+    padding-left: 20px;
+    position: absolute;
+    left: 600px;
+    top: 213px;
+    background-color: #D5D5D5;
+    height: 600px;
+    right: 400px;
+    border-radius: 2%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+}
+.Formacion{
+    padding-left: 20px;
+    position: absolute;
+    left: 600px;
+    top: 420px;
+    background-color: #D5D5D5;
+    right: 400px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+}
+.idiomas{
+    padding-left: 20px;
+    position: absolute;
+    left: 600px;
+    top: 630;
+    background-color: #D5D5D5;
+    height: 170px;
+    right: 400px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+}
